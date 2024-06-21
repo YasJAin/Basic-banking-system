@@ -1,0 +1,17 @@
+{
+  "name": "projectf",
+  "version": "1.0.0",
+  "description": "basic banking system",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "mongoose": "^8.4.3"
+  }
+}
